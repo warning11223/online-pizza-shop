@@ -1,7 +1,13 @@
 # Stack:
--react
+-react 
+
 -react-hooks
+
 -react-router
+
 -redux
+
 -json-server
+
 -axios
+
